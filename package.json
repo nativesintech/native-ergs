@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "native-ergs",
+  "description": "A collection of Native ERGs!",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
