@@ -4,12 +4,14 @@
 
 <style>
 
+
+
 </style>
 
 <svelte:head>
 	<title>Native ERGs</title>
 </svelte:head>
 
-<h1>Native and Indigenous ERGs</h1>
+<h1 class="text-4xl">Native and Indigenous ERGs</h1>
 
-<p>A collection of Native and Indigneous ERGs</p>
+<p class="text-sm">A collection of Native and Indigneous ERGs</p>
